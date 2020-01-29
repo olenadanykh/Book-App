@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(178, 209, 238);
+}
+.App {
+    text-align: center;
+}
+
+
+.App input{
+    
+    width:40%;
+    margin:15px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(215, 215, 223);
+    border: 1px solid rgb(77, 77, 194);
+}
+.App button{
+width:15%;
+padding: 20px;
+border: 1px solid rgb(77, 77, 194);
+background-color: rgb(215, 215, 223);
+border-radius: 10px;
+
+}
+
+.App h1{
+
+    color:rgb(7, 7, 78);
+    font-size: 70px;
+    font-weight: bold;
+}
+
+
+.BookInfo{
+  display: flex; 
+  flex-direction:row;
+  padding: 10px;
+
+  flex-wrap: wrap;
+
+
+}
