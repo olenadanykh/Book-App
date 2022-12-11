@@ -11,7 +11,7 @@
     "client": "0.0.1",
     "cors": "^2.8.5",
     "css-loader": "^3.4.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "form-data": "^3.0.0",
     "module": "^1.2.5",
     "mongoose": "^5.8.9",
